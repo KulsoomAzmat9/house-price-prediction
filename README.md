@@ -29,8 +29,7 @@ house-price-prediction/
 ⚙️ How to Run
 1. Clone & Install:
 ```bash
-git clone https://github.com/yourusername/house-price-prediction.git
-cd house-price-prediction
+
 pip install -r requirements.txt
 
 2. Train Model:bash 
