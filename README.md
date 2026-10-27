@@ -37,9 +37,13 @@ python train.py
 # Windows alternative:
 py train.py. 
 
-3. Run Website:bashpython app.py
+3. Run Website:bash
+python app.py
+
 # OR
-py app.py. 
+
+py app.py.
+
 Open: 127.0.0.1:5000
 
 Model Details
